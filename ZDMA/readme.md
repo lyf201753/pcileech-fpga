@@ -1,6 +1,6 @@
-LightingZDMA - PCIe to Thunderbolt:
+LightningZDMA - PCIe to Thunderbolt:
 =================
-This project contains software and HDL code for the [LightingZDMA board](https://lightningz.net/).
+This project contains software and HDL code for the [LightningZDMA board](https://lightningz.net/).
 
 Once flashed it may be used together with the [PCILeech Direct Memory Access (DMA) Attack Toolkit](https://github.com/ufrisk/pcileech/) or [MemProcFS - The Memory Process File System](https://github.com/ufrisk/MemProcFS/) to perform DMA attacks, dump memory or perform research.
 
@@ -17,11 +17,11 @@ For information about more capabilities check out the general readme and info wi
 For information about other supported FPGA based devices please check out [PCILeech FPGA](https://github.com/ufrisk/pcileech-fpga/).
 
 
-The Hardware: LightingZDMA
+The Hardware: LightningZDMA
 ========================
-The LightingZDMA PCIe gen2 x4 board contains a powerful Artix7 100T FPGA which allows for good performance and also interesting applications besides PCILeech/MemProcFS. The LightingZDMA may be purchased from: [lightingz.store](https://lightningz.net/). For more information about the hardware please check out [lightingz.store](https://lightningz.net/). Please note that the LightingZDMA is sold by a 3rd party and not by the PCILeech project itself!
+The LightningZDMA PCIe gen2 x4 board contains a powerful Artix7 100T FPGA which allows for good performance and also interesting applications besides PCILeech/MemProcFS. The LightningZDMA may be purchased from: [lightingz.store](https://lightningz.net/). For more information about the hardware please check out [lightingz.store](https://lightningz.net/). Please note that the LightningZDMA is sold by a 3rd party and not by the PCILeech project itself!
 
-The picture below depicts an LightingZDMA. The ZDMA contains a Thunderbolt port for data transfer and an update port for easy updating without the need for additional hardware.
+The picture below depicts an LightningZDMA. The ZDMA contains a Thunderbolt port for data transfer and an update port for easy updating without the need for additional hardware.
 
 <img src="https://gist.githubusercontent.com/ufrisk/c5ba7b360335a13bbac2515e5e7bb9d7/raw/65984ae014a8caa659c2e297dbb77c6c67c0889a/zdma-500.jpg"/>
 
@@ -77,7 +77,7 @@ The completed solution contains Xilinx proprietary IP cores licensed under the X
 
 Support PCILeech/MemProcFS development:
 =======================================
-**Thank You LightingZDMA for supporting the PCILeech project :sparkling_heart:**
+**Thank You LightningZDMA for supporting the PCILeech project :sparkling_heart:**
 
 Some other hardware sellers have chosen not to support the project! If you think PCILeech and/or MemProcFS is awesome or if you had a use for it it's now possible to support the project via Github Sponsors: [`https://github.com/sponsors/ufrisk`](https://github.com/sponsors/ufrisk).
 

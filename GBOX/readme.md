@@ -81,7 +81,7 @@ The completed solution contains Xilinx proprietary IP cores licensed under the X
 
 Support PCILeech/MemProcFS development:
 =======================================
-**Thank You LightingZDMA for supporting the PCILeech project :sparkling_heart:**
+**Thank You LightningZDMA for supporting the PCILeech project :sparkling_heart:**
 
 Some other hardware sellers have chosen not to support the project! If you think PCILeech and/or MemProcFS is awesome or if you had a use for it it's now possible to support the project via Github Sponsors: [`https://github.com/sponsors/ufrisk`](https://github.com/sponsors/ufrisk).
 

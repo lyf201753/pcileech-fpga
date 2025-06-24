@@ -34,10 +34,10 @@ Check out the individual FPGA projects in the table above for more information a
 **A special Thank You 💖 to the project hardware sponsors!**
 * [LambdaConcept](https://shop.lambdaconcept.com) - The original maker of custom PCILeech hardware and the maker of the [Screamer PCIe Squirrel](PCIeSquirrel).
 * [Enigma-X1](https://enigma-x1.com/) - Long time supporter and the maker of [Enigma X1](EnigmaX1) and [LeetDMA](https://enigma-x1.com/).
-* [LightingZ](https://lightningz.net/) - Maker of the fastest PCILeech hardwares, the [ZDMA](ZDMA) and [GBOX](GBOX).
+* [LightningZ](https://lightningz.net/) - Maker of the fastest PCILeech hardwares, the [ZDMA](ZDMA) and [GBOX](GBOX).
 * [CaptainDMA](https://captaindma.com/) - Our most recent sponsor, maker of many PCILeech compatible hardwares including [M2 devices](https://captaindma.com/product/captain-dma-m-2/).
 
-Thank You [LambdaConcept](https://shop.lambdaconcept.com),  [Enigma-X1](https://enigma-x1.com/), [LightingZ](https://lightningz.net/) and [CaptainDMA](https://captaindma.com/) for supporting the PCILeech and MemProcFS projects 💖
+Thank You [LambdaConcept](https://shop.lambdaconcept.com),  [Enigma-X1](https://enigma-x1.com/), [LightningZ](https://lightningz.net/) and [CaptainDMA](https://captaindma.com/) for supporting the PCILeech and MemProcFS projects 💖
 
 **The images below depicts:**
 * Top row: LambdaConcept Screamer PCIe Squirrel and ZDMA.

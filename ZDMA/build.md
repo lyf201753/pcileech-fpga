@@ -1,4 +1,4 @@
-LightingZDMA Build
+LightningZDMA Build
 =================
 This readme details some customizations that are possible to perform prior to building/flashing the FPGA. For general information please check out the general [readme](readme.md).
 
